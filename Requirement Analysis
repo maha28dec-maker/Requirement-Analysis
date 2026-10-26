@@ -1,0 +1,29 @@
+1. Users can select a legal document type.
+2. Users can enter names and addresses.
+3. Users can provide additional details and clauses.
+4. The application generates a legal document draft.
+5. Users can view and download the generated document.
+
+Non-Functional Requirements:
+
+1. User-friendly interface.
+2. Reliable document generation.
+3. Reasonable response time.
+4. Secure storage of API credentials.
+5. Clear legal disclaimer.
+
+Software Requirements:
+
+- Programming Language: Python
+- Framework: Streamlit
+- AI Service: Google Gemini API
+- Code Repository: GitHub
+
+Hardware Requirements:
+
+- Laptop or computer
+- Internet connection
+- Web browser
+
+Expected Outcome:
+A complete list of the requirements needed to develop and run the application.
